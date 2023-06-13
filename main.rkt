@@ -35,4 +35,5 @@
   (require racket/cmdline)
   (command-line
     #:program "endeavor-cli"
+    #:args ()
     (display "endeavor")))
