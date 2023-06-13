@@ -6,4 +6,4 @@
 (define pkg-desc "a Lisp as a Racket lang")
 (define version "0.1")
 (define pkg-authors '(sunarch))
-(define license '(MPL-2.0))
+(define license 'MPL-2.0)
