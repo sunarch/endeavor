@@ -3,8 +3,8 @@
                     racket/base]]
 
 @title{endeavor}
-@author{anemeth}
+@author{sunarch}
 
 @defmodule[endeavor]
 
-Package Description Here
+a Lisp as a Racket lang
